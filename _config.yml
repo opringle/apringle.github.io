@@ -1,11 +1,10 @@
 # Site settings
-title: Andrej Karpathy blog
+title: Alice Pringle blog
 email: 
-description: "Musings of a Computer Scientist."
+description: "Musings of a Data Scientist."
 baseurl: ""
-url: "http://karpathy.github.io"
-twitter_username: karpathy
-github_username:  karpathy
+url: "http://apringle.github.io"
+github_username:  apringle
 
 # Build settings
 markdown: kramdown

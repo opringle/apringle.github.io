@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Biohacking Lite"
 excerpt: "Dipping toes into biochemistry, energy metabolism and running some biohacking lite experiments."
-date:   2020-06-11 10:00:00
+date:   2020-09-29 10:00:00
 mathjax: false
 ---
 
