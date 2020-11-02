@@ -3,8 +3,8 @@ title: Alice Pringle blog
 email: 
 description: "Musings of a Data Scientist."
 baseurl: ""
-url: "http://apringle.github.io"
-github_username:  apringle
+url: "https://opringle.github.io/apringle.github.io/"
+github_username:  alicepringle
 
 # Build settings
 markdown: kramdown

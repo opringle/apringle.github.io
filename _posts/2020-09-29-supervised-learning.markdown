@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title:  "Biohacking Lite"
 excerpt: "Dipping toes into biochemistry, energy metabolism and running some biohacking lite experiments."
 date:   2020-09-29 10:00:00
